@@ -2,6 +2,8 @@
 
 I recently designed and developed a **YouTube Analytics Dashboard** inspired by a real-world UI experience. This project focuses on comparing top channels and analyzing video performance in an interactive way.
 
+Project Link :-https://app.powerbi.com/view?r=eyJrIjoiNzQ1NDhjYjktZmFiMC00NzVkLWFiMjctNDVlNTI3NzRjODhhIiwidCI6IjNmYTRhNDhjLWRkODMtNDc1MS1iOWMxLWJiZmVkNmNiOTEzOSJ9
+
 ->  Key Features:
 •  Functional **Search Bar** for dynamic channel filtering
 •  **Channel vs Channel Comparison** (e.g., T-Series vs MrBeast)
